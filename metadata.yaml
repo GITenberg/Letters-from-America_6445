@@ -1,0 +1,40 @@
+_repo: Letters-from-America_6445
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+creator:
+  author:
+    agent_name: Brooke, Rupert
+    birthdate: 1887
+    deathdate: 1915
+    gutenberg_agent_id: '148'
+    url: http://www.gutenberg.org/2009/agents/148
+    wikipedia: http://en.wikipedia.org/wiki/Rupert_Brooke
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6445'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- Description and travel'
+- !lcsh 'Brooke, Rupert, 1887-1915 -- Travel -- North America'
+- !lcsh 'United States -- Description and travel'
+- !lcc 'PR'
+- !lcsh 'Poets, English -- 20th century -- Biography'
+- GITenberg
+tableOfContents: Arrival -- New York -- New York (continued) -- Boston and Harvard
+  -- Montreal and Ottawa -- Quebec and the Saguenay -- Ontario -- Niagara Falls --
+  To Winnipeg -- Outside -- The prairies -- The Indians -- The Rockies -- Some niggers
+  -- An unusual young man.
+title: Letters from America
+url: http://www.gutenberg.org/ebooks/6445
